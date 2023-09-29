@@ -1,5 +1,4 @@
- ![MasterHead]([https://i.ibb.co/ZBGsHkb/IMG-1062.jpg](https://media.istockphoto.com/id/1193278024/vector/application-of-smartphone-with-business-graph-and-analytics-data-on-isometric-mobile-phone.jpg?s=612x612&w=0&k=20&c=cV3zqN7LAi6_qAqW45_vZMg7HVRSt4_2NV-SRJ-FK04=))
-
+ ![MasterHead](https://media.istockphoto.com/id/1193278024/vector/application-of-smartphone-with-business-graph-and-analytics-data-on-isometric-mobile-phone.jpg?s=612x612&w=0&k=20&c=cV3zqN7LAi6_qAqW45_vZMg7HVRSt4_2NV-SRJ-FK04=)
 
 <h1 align="center">Hi 👋, I'm Kaan Odabaş</h1>
 <h3 align="center">Computer engineer student at Yeditepe University.</h3>
